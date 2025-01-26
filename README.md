@@ -5,3 +5,5 @@ you can make it more intresting my adding your own elements.. do share me your w
 mail me at - bijanmali00@gmail.com
 
 Happy coding!
+
+Download the exe file and run it to play the game or download the cpp file to check/preview the code
